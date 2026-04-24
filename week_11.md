@@ -30,7 +30,7 @@
 
 ---
 
-### (Reservations)
+### Reservations
 
 #### 纯艺术品 = 完整学术研究？(Pure artwork = Complete rigorous research?)
 - 很难！标准学术知识需要“可推广性”(Generalisable) 和“可转移性”(Transferable)。单一作品往往过于模糊多义。
